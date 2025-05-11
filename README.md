@@ -5,6 +5,7 @@ File Converterは、さまざまなファイル形式を簡単に変換できる
 
 ## 主な機能
 - pdfのjpg変換
+- pdfのpng変換
 
 (追加予定)
 
